@@ -1,0 +1,59 @@
+header {
+    margin: 0;
+    padding: 0px;
+    background-color: gray;
+	color: black;
+	width: 1000px;
+}
+ul{
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+nav li{
+  float:left;
+  width : 100px;
+  height : 20px;
+  text-align  :center;
+}
+nav li a{
+   display : block ;
+   text-decoration : none ;
+   color : black ;
+   background-color : gray ;
+}
+/* Change color of dropdown links on hover */
+nav li a:hover {
+	background-color: #ddd;
+}
+td nav li{
+	text-align: right;
+}
+td{
+	width: 500px;
+}
+img{
+	width: 1000px;
+	height: 500px;
+	border-radius: 10%;
+}
+strong{
+	color: red;
+}
+.section{
+	background-color: lightgray;
+	width: 1000px;
+}
+footer{
+	background-color: lightgray;
+	width: 1000px;
+}
+footer li{
+	float:left;
+    width : 100px;
+    height : 20px;
+    text-align  :center;
+}
+.li{
+	width: 900px;
+}
